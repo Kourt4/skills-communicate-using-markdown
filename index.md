@@ -10,3 +10,8 @@
 ``` c++
 std::cout << "Hello World!";
 ```
+
+- [ ] Play League of Legends!
+- [ ] Pray!
+- [ ] Outline my portfolio
+- [ ] Introduce the Kourt4 to the WORLD AS BEST ULTIMATE AMAZING PROGRAMMER!

@@ -8,6 +8,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-std::cout << HELLO WORLD!
+var myVar = "Hello, world!";
+
 
 

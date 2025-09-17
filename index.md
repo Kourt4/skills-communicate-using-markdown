@@ -1,0 +1,17 @@
+# H1 I AM KOURT4 AND THIS IS MY WEBSITE OH YEAH! 😎
+# H2 This is Header 2!!
+# H3 This is Header 3!!!
+# H4 This is Header 4!!!!
+# H5 This is Header 5!!!!!
+# H6 This is Header 6!!!!!!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` c++
+std::cout << "Hello World!";
+```
+
+- [ ] Play League of Legends!
+- [ ] Pray!
+- [ ] Outline my portfolio
+- [ ] Introduce the Kourt4 to the WORLD AS BEST ULTIMATE AMAZING PROGRAMMER!
